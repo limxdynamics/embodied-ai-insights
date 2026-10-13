@@ -14,7 +14,7 @@
 | **261 : 5** | 2 个随新品发布上线的新仓 star vs 其余 9 个当月新建仓库的 star 合计 |
 | **第 3 名** | LimX（含 FluxVLA）9 月 star 净增约 +143，仅次于宇树 846 与智元 181 |
 
-## 六个趋势
+## 本月趋势
 
 1. **开源重心转向具身基础模型**：增长榜一半增量来自基础模型、VLA 与世界模型，SDK 和 ROS 包热度靠后。
 2. **人形控制走向"动作数据 + 通用框架"**：至少 3 家开放了动作模仿 / 重定向仓库，智元把 NVIDIA SONIC 适配到 A3，一周 62 star。
@@ -23,11 +23,11 @@
 5. **开发者要"完整开放"**：新模型发布后，讨论集中在权重和部署代码是否开放。
 6. **发布不等于热度**：新仓库需要配合视频、技术报告等宣发，才能获得第一批用户。
 
-[查看趋势详解 ↓](#趋势详解)
+[查看趋势详解 ↓](#本月趋势详解)
 
 ---
 
-## 数据一览
+## 本月数据一览
 
 ### 谁在涨
 
@@ -50,7 +50,7 @@
 | 宇树 | 2 | unifolm-wla（人形基础模型，9-11） | 199 |
 | 智元 | 2 | sonic_for_a3（人形全身控制，9-24） | 62 |
 | 云深处 | 1 | deep-research | 0 |
-| LimX | 6 | luna-beyondmimic、Luna 描述、TRON2 导航 / 操作控制 | 5 |
+| LimX | 6 | luna-beyondmimic（动作模仿）、luna-description（机型描述）、tron2-navigation-ros2（ROS 2 导航）、tron2-navigation-pct-gpl / -fastlio-gpl（导航依赖）、tron2_manipulation_controller（操作控制） | 5 |
 | 其余 5 家 | 0 | — | — |
 
 > 11 个当月新建仓库里，只有随新品上线的 2 个拿到了明显关注。另有 3 个此前创建、9 月才首次公开的仓库（DeepRoboticsLab 的 mimic / retarget、LimX GMR），合计 5 star。
@@ -71,7 +71,7 @@
 
 > 宇树 9 月新增 fork 是其余 7 家之和（82 个）的 2.7 倍。其 26 个新 issue 中 9 个集中在 9 月新发布的 UnifoLM-WLA，多数在问模型权重与部署代码的开放节奏。傅利叶、松延动力、星动纪元本月没有新 issue 或 PR。
 
-### 增长榜 TOP 14
+### 增长榜
 
 | # | 仓库 | 企业 | 9 月 +star | 方向 |
 | --- | --- | --- | --- | --- |
@@ -96,7 +96,7 @@
 
 ---
 
-## 趋势详解
+## 本月趋势详解
 
 ### 1. 开源重心转向具身基础模型
 
@@ -131,17 +131,18 @@
 
 ## 数据口径与披露
 
-<details>
-<summary>展开查看</summary>
-
 **统计对象**
 
 - LimX：limxdynamics 主账号（9 月底 50 个公开仓库，其中 44 个非 fork，其余 6 个为 fork 派生仓）+ FluxVLA 组织（FluxVLA、FluxBisim、FluxDAgger）。"LimX（含 FluxVLA）"指二者之和。
 - 其余 8 家：宇树（unitreerobotics）、智元（AgibotTech）、云深处（DeepRoboticsLab）、星海图（OpenGalaxea）、ANYbotics、星动纪元（roboterax）、傅利叶（FFTAI）、松延动力（pndbotics）。
 
-**数据来源**：GitHub REST API 公开数据，每日采集存档；背景信息取自 [UnifoLM-WLA](https://github.com/unitreerobotics/unifolm-wla)、[sonic_for_a3](https://github.com/AgibotTech/sonic_for_a3) 的 README 和 [FluxVLA 技术报告](https://arxiv.org/abs/2609.17210)。
+**数据来源**
 
-**统计周期**：2026 年 9 月自然月（北京时间）。star 净增取 2026-08-31 与 2026-09-30 两次快照之差，跨企业比较含 fork 派生仓；fork、issue、PR 按 `created_at` 落在 2026-09 统计，issue 已排除 PR。环比取 8 月同口径。
+GitHub REST API 公开数据，每日采集存档；背景信息取自 [UnifoLM-WLA](https://github.com/unitreerobotics/unifolm-wla)、[sonic_for_a3](https://github.com/AgibotTech/sonic_for_a3) 的 README 和 [FluxVLA 技术报告](https://arxiv.org/abs/2609.17210)。
+
+**统计周期**
+
+2026 年 9 月自然月（北京时间）。star 净增取 2026-08-31 与 2026-09-30 两次快照之差，跨企业比较含 fork 派生仓；fork、issue、PR 按 `created_at` 落在 2026-09 统计，issue 已排除 PR。环比取 8 月同口径。
 
 **局限**
 
@@ -151,6 +152,7 @@
 - FluxVLA 组织的 star 期初值取自 8-26 的采集记录（主仓 631 star），而看板对它的每日采集自 09-24 起，因此"约 +143"包含了 8 月最后几天，为估算上限。其 fork / issue / PR 记录完整，8 月数据齐全。
 - 趋势基于一个月的数据归纳，将在后续月报中持续验证。
 
-**利益披露**：本报告由 LimX 团队撰写并维护。LimX 及 FluxVLA 相关仓库的逐条 star、fork 来源和内部活跃度由内部直接采集，粒度高于其他企业；其他企业仅使用 GitHub 公开聚合数据。为保持可比性，跨企业排名与趋势判断只采用所有企业都可获得的同口径公开数据；LimX 独家深度数据仅用于案例复盘，不单独用于得出"某家更强 / 更弱"的结论。报告观点仅代表作者，欢迎通过 issue 指正。
+**利益披露**
 
-</details>
+本报告由 LimX 团队撰写并维护。LimX 及 FluxVLA 相关仓库的逐条 star、fork 来源和内部活跃度由内部直接采集，粒度高于其他企业；其他企业仅使用 GitHub 公开聚合数据。为保持可比性，跨企业排名与趋势判断只采用所有企业都可获得的同口径公开数据；LimX 独家深度数据仅用于案例复盘，不单独用于得出"某家更强 / 更弱"的结论。报告观点仅代表作者，欢迎通过 issue 指正。
+
