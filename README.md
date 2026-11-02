@@ -19,21 +19,6 @@
 
 由 [LimX Dynamics](https://github.com/limxdynamics) 开源团队维护。
 
-## 最新一期：2026 年 9 月
-
-[阅读全文 →](monthly-report/2026-09/README.md)
-
-| 数字 | 含义 |
-| --- | --- |
-| **+1,224** | 除 LimX 外 8 家企业 9 月 star 合计净增（38,921 → 40,145，增速 3.1%） |
-| **69%** | 宇树一家占这 8 家合计增量的比例 |
-| **约一半** | 增长榜前 14 个仓库的增量中，基础模型 / VLA / 世界模型的占比 |
-| **261 : 5** | 2 个随新品发布上线的新仓库 star vs 其余 9 个当月新建仓库的 star 合计 |
-
-<p align="center">
-  <img src="monthly-report/2026-09/images/star-growth-by-company-2026-09.png" alt="2026 年 9 月各企业 GitHub star 净增与增速" width="80%">
-</p>
-
 ## 栏目
 
 ### 开源月报

@@ -23,21 +23,6 @@ Maintained by the [LimX Dynamics](https://github.com/limxdynamics)
 open-source team. The reports are written in Chinese; this page summarises
 them in English.
 
-## Latest issue: September 2026
-
-[Read the report (Chinese) →](monthly-report/2026-09/README.md)
-
-| Number | Meaning |
-| --- | --- |
-| **+1,224** | Net new stars in September across the 8 tracked companies other than LimX (38,921 → 40,145, +3.1%) |
-| **69%** | Unitree's share of that increase |
-| **About half** | Share of the increase in the top-14 repositories that came from foundation-model / VLA / world-model repositories |
-| **261 : 5** | Stars of the 2 new repositories launched with a product release vs. the other 9 repositories created that month combined |
-
-<p align="center">
-  <img src="monthly-report/2026-09/images/star-growth-by-company-2026-09.png" alt="Net new GitHub stars and growth rate per company, September 2026 (chart labels in Chinese)" width="80%">
-</p>
-
 ## Sections
 
 ### Monthly report
