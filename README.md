@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/banner.png" alt="Embodied AI Insights：具身智能开源生态观察月报" width="100%">
+  <img src="docs/images/banner.png" alt="Embodied AI Insights：具身智能企业的 GitHub 开源月报，图为 2026 年 9 月各企业 star 净增" width="100%">
 </p>
 
 <p align="center">

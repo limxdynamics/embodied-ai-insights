@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/banner.png" alt="Embodied AI Insights: monthly reports on embodied-AI open source" width="100%">
+  <img src="docs/images/banner.png" alt="Embodied AI Insights: monthly GitHub reports on embodied-AI companies, showing the September 2026 star growth chart" width="100%">
 </p>
 
 <p align="center">
