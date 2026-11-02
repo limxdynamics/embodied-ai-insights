@@ -1,1 +1,6 @@
-IyBkYXRhIHwg5pWw5o2u5b2S5qGjCgrmr4/mnIjlvZLmoaPlvZPmnJ/mnIjmiqXkvb/nlKjnmoTmsYfmgLvmlbDmja7ooajvvIhDU1YvSlNPTu+8ieS4jumHh+mbhuWPo+W+hOivtOaYjuOAggoKLSDmlbDmja7mupDvvJpHaXRIdWIgUkVTVCBBUEkg5q+P5pel5b+r54Wn77yI6YeH6ZuG6ISa5pys54us56uL57u05oqk5LqO6L+Q6JCl55yL5p2/5LuT5bqT77yJCi0g5b2S5qGj6IyD5Zu077ya5ZCE5LyB5LiaIHN0YXIvZm9yay9pc3N1ZS9QUi9yZWxlYXNlL2NvbW1pdCDmnIjluqbmsYfmgLsK
+# data | 数据归档
+
+每月归档当期月报使用的汇总数据表（CSV/JSON）与采集口径说明。
+
+- 数据源：GitHub REST API 每日快照（采集脚本独立维护于运营看板仓库）
+- 归档范围：各企业 star/fork/issue/PR/release/commit 月度汇总
