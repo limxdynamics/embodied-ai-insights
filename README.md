@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/banner.png" alt="Embodied AI Insights：具身智能企业的 GitHub 开源月报，图为 2026 年 9 月各企业 star 净增" width="100%">
+  <img src="docs/images/banner.png" alt="Embodied AI Insights：具身智能企业的 GitHub 开源月报，图为人形、四足与轮足机器人" width="100%">
 </p>
 
 <p align="center">
@@ -64,6 +64,8 @@
 本仓库的文章与数据采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 许可，欢迎转载和引用，请注明出处：
 
 > LimX Dynamics, Embodied AI Insights, https://github.com/limxdynamics/embodied-ai-insights
+
+首页图中的机器人模型来源与许可见 [docs/images/CREDITS.md](docs/images/CREDITS.md)。
 
 ## 反馈
 

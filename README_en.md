@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/banner.png" alt="Embodied AI Insights: monthly GitHub reports on embodied-AI companies, showing the September 2026 star growth chart" width="100%">
+  <img src="docs/images/banner.png" alt="Embodied AI Insights: monthly GitHub reports on embodied-AI companies, showing humanoid, quadruped and wheel-legged robots" width="100%">
 </p>
 
 <p align="center">
@@ -73,6 +73,8 @@ The articles and data in this repository are licensed under
 republish and cite them with attribution:
 
 > LimX Dynamics, Embodied AI Insights, https://github.com/limxdynamics/embodied-ai-insights
+
+Robot models in the banner and their licenses: [docs/images/CREDITS.md](docs/images/CREDITS.md).
 
 ## Feedback
 
