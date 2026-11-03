@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-2f6feb" alt="License: CC BY 4.0"></a>
-  <a href="monthly-report/2026-09/README.md"><img src="https://img.shields.io/badge/latest%20issue-2026--09-2f6feb" alt="Latest issue 2026-09"></a>
+  <a href="monthly-report/2026-10/README.md"><img src="https://img.shields.io/badge/latest%20issue-2026--10-2f6feb" alt="Latest issue 2026-10"></a>
   <img src="https://img.shields.io/badge/data-GitHub%20REST%20API-2f6feb" alt="Data: GitHub REST API">
-  <img src="https://img.shields.io/badge/tracking-9%20companies-2f6feb" alt="Tracking 9 companies">
+  <img src="https://img.shields.io/badge/tracking-10%20companies-2f6feb" alt="Tracking 10 companies">
 </p>
 
 # Embodied AI Insights
@@ -33,6 +33,7 @@ projects, plus a summary of the month's trends.
 
 | Issue | Key findings |
 | --- | --- |
+| [October 2026](monthly-report/2026-10/README.md) | Paper code gains stars fastest, but VLA attention fades just as fast; 57% of new stars go to older repositories; users fork simulation, training and SDK repositories the most (new layout from this issue) |
 | [September 2026](monthly-report/2026-09/README.md) | Foundation models drive open-source growth; humanoid control moves to "motion data + general frameworks"; new repositories need a launch campaign to get attention |
 
 ### Articles
@@ -41,7 +42,7 @@ Coming soon.
 
 ## Coverage
 
-The GitHub organisations of 9 companies are tracked:
+The GitHub organisations of 10 companies are tracked:
 
 | Company | GitHub |
 | --- | --- |
@@ -54,6 +55,7 @@ The GitHub organisations of 9 companies are tracked:
 | RobotEra | [roboterax](https://github.com/roboterax) |
 | Fourier | [FFTAI](https://github.com/FFTAI) |
 | PNDbotics | [pndbotics](https://github.com/pndbotics) |
+| Leju | [LejuRobotics](https://github.com/LejuRobotics) (collected since 2026-10-30; compared from the November report) |
 
 Coverage will change as the industry does; suggest organisations or projects
 worth tracking in an issue.

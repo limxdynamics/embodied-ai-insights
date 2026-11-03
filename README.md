@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-2f6feb" alt="License: CC BY 4.0"></a>
-  <a href="monthly-report/2026-09/README.md"><img src="https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E4%B8%80%E6%9C%9F-2026--09-2f6feb" alt="最新一期 2026-09"></a>
+  <a href="monthly-report/2026-10/README.md"><img src="https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E4%B8%80%E6%9C%9F-2026--10-2f6feb" alt="最新一期 2026-10"></a>
   <img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE-GitHub%20REST%20API-2f6feb" alt="数据：GitHub REST API">
-  <img src="https://img.shields.io/badge/%E8%BF%BD%E8%B8%AA-9%20%E5%AE%B6%E4%BC%81%E4%B8%9A-2f6feb" alt="追踪 9 家企业">
+  <img src="https://img.shields.io/badge/%E8%BF%BD%E8%B8%AA-10%20%E5%AE%B6%E4%BC%81%E4%B8%9A-2f6feb" alt="追踪 10 家企业">
 </p>
 
 # Embodied AI Insights
@@ -27,6 +27,7 @@
 
 | 期数 | 核心看点 |
 | --- | --- |
+| [2026 年 10 月](monthly-report/2026-10/README.md) | 论文代码起量最快，但 VLA 热度退得也快；57% 的新增 star 来自老仓库；用户最常拿去用的是仿真、训练与 SDK（本期起改版） |
 | [2026 年 9 月](monthly-report/2026-09/README.md) | 基础模型成为开源增长主力；人形控制走向"动作数据 + 通用框架"；新仓库需配合宣发才能获得关注 |
 
 ### 专题文章
@@ -35,7 +36,7 @@
 
 ## 覆盖范围
 
-目前追踪 9 家企业的 GitHub 组织：
+目前追踪 10 家企业的 GitHub 组织：
 
 | 企业 | GitHub |
 | --- | --- |
@@ -48,6 +49,7 @@
 | 星动纪元 RobotEra | [roboterax](https://github.com/roboterax) |
 | 傅利叶 Fourier | [FFTAI](https://github.com/FFTAI) |
 | 松延动力 PNDbotics | [pndbotics](https://github.com/pndbotics) |
+| 乐聚 Leju | [LejuRobotics](https://github.com/LejuRobotics)（2026-10-30 起采集，11 月月报起纳入比较） |
 
 覆盖范围会随行业发展调整，欢迎通过 issue 推荐值得追踪的组织或项目。
 
