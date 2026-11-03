@@ -79,22 +79,15 @@ fork 更接近"在用"：仿真 / 训练和 SDK / ROS 占新 fork 的 49%。
 
 ## 本月数据
 
-<details>
-<summary><b>增长榜 Top 14</b></summary>
+### 增长榜 Top 14
 
 ![增长榜 Top 14](images/top-repos-2026-10.png)
 
-</details>
-
-<details>
-<summary><b>社区活跃度（9 月 → 10 月）</b></summary>
+### 社区活跃度（9 月 → 10 月）
 
 ![社区活跃度：9 月与 10 月对比](images/community-activity-2026-10.png)
 
-</details>
-
-<details>
-<summary><b>提问响应</b></summary>
+### 提问响应
 
 | 企业 | 10 月用户提问 | 有评论 | 已关闭 | 累计未关闭 issue |
 | --- | --- | --- | --- | --- |
@@ -106,26 +99,16 @@ fork 更接近"在用"：仿真 / 训练和 SDK / ROS 占新 fork 的 49%。
 
 > 不含第三方账号 PHM-Audit 的 8 个模型核查类 issue。
 
-</details>
-
-<details>
-<summary><b>版本发布</b></summary>
+### 版本发布
 
 - **智元**：灵巧手 SDK agilink_omnihand_sdk 升级到 v1.1.10（10-15）；数据手套 SDK agilink_omniglove_sdk 发布首个版本 v1.0.0（10-30）
 - **云深处**：station-openapi-devkit 升级到 v1.1.0（10-20）
 - **LimX**：FluxVLA 升级到 v0.2.0（10-30）
 
-</details>
-
 ## 数据口径与披露
-
-<details>
-<summary>展开查看</summary>
 
 - **对象**：9 家企业的 GitHub 组织；LimX = limxdynamics + FluxVLA。乐聚自 11 月起纳入。
 - **周期**：10 月（北京时间）；star 取 09-30 与 10-31 快照之差，fork / issue / PR 按创建时间。
 - **细节**：智元仓库更名按同一仓库计；FluxVLA 按逐条记录截取（765 → 828）；用户提问不含 PHM-Audit；9 月环比按当前存档重算，可能与上期差 1–5。
 - **局限**：star、fork 不等于实际使用量；issue / PR 未区分内外部。
 - **披露**：本报告由 LimX 撰写；跨企业比较只用各家都能获得的公开数据。观点仅代表作者，欢迎通过 issue 指正。
-
-</details>
