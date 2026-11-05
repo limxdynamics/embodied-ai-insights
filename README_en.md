@@ -6,16 +6,12 @@
   <a href="README.md">中文</a> | <b>English</b>
 </p>
 
-<!-- limx-community:start -->
-<!-- Managed by limxdynamics/limxdynamics/.github/community/sync_community.py; QR code: doc/wechat_qr.png in that repo -->
-<p align="center"><a href="https://github.com/limxdynamics/limxdynamics/blob/main/doc/wechat_qr.png"><img src="https://img.shields.io/badge/Join%20Our%20WeChat%20Community-All%20Projects%20Welcome-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat Community"></a></p>
-<!-- limx-community:end -->
-
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-2f6feb" alt="License: CC BY 4.0"></a>
   <a href="monthly-report/2026-10/README.md"><img src="https://img.shields.io/badge/latest%20issue-2026--10-2f6feb" alt="Latest issue 2026-10"></a>
   <img src="https://img.shields.io/badge/data-GitHub%20REST%20API-2f6feb" alt="Data: GitHub REST API">
   <img src="https://img.shields.io/badge/tracking-10%20companies-2f6feb" alt="Tracking 10 companies">
+  <a href="https://github.com/limxdynamics/limxdynamics/blob/main/doc/wechat_qr.png"><img src="https://img.shields.io/badge/WeChat-Developer%20Community-07C160?logo=wechat&logoColor=white" alt="WeChat Community"></a>
 </p>
 
 # Embodied AI Insights
