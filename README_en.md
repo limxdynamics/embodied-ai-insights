@@ -6,6 +6,11 @@
   <a href="README.md">中文</a> | <b>English</b>
 </p>
 
+<!-- limx-community:start -->
+<!-- Managed by limxdynamics/limxdynamics/.github/community/sync_community.py; QR code: doc/wechat_qr.png in that repo -->
+<p align="center"><a href="https://github.com/limxdynamics/limxdynamics/blob/main/doc/wechat_qr.png"><img src="https://img.shields.io/badge/Join%20Our%20WeChat%20Community-All%20Projects%20Welcome-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat Community"></a></p>
+<!-- limx-community:end -->
+
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-2f6feb" alt="License: CC BY 4.0"></a>
   <a href="monthly-report/2026-10/README.md"><img src="https://img.shields.io/badge/latest%20issue-2026--10-2f6feb" alt="Latest issue 2026-10"></a>
