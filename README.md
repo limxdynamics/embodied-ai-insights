@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/%E8%BF%BD%E8%B8%AA-10%20%E5%AE%B6%E4%BC%81%E4%B8%9A-2f6feb" alt="追踪 10 家企业">
   <a href="https://github.com/limxdynamics/limxdynamics/blob/main/doc/wechat_qr.png"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA-07C160?logo=wechat&logoColor=white" alt="微信开发者社区"></a>
 </p>
+<p align="center"><sub>合作采购请联系 <a href="mailto:opensource@limxdynamics.com">opensource@limxdynamics.com</a></sub></p>
 
 # Embodied AI Insights
 
