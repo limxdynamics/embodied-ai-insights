@@ -6,7 +6,7 @@
 
 > **In one sentence**: open-source attention is shifting from locomotion control to embodied foundation models, and the field is getting more top-heavy. Unitree alone gained 2.2 times as many stars as the other seven companies combined.
 
-<sub>This report is written by the LimX team from a daily archive of the public GitHub API. Net star gain is the difference between the 2026-08-31 and 2026-09-30 snapshots; forks, issues and PRs are counted by creation time within September (Beijing time). The full method and the conflict-of-interest disclosure are at the [end](#method-and-disclosure). Chart labels are in Chinese; the figures in each chart are repeated in English next to it.</sub>
+<sub>This report is written by the LimX team from a daily archive of the public GitHub API. Net star gain is the difference between the 2026-08-31 and 2026-09-30 snapshots; forks, issues and PRs are counted by creation time within September (Beijing time). The full method and the conflict-of-interest disclosure are at the [end](#method-and-disclosure).</sub>
 
 ## The month at a glance
 
@@ -34,40 +34,15 @@
 
 ### Who is growing
 
-![Net star gain and growth rate in September](images/star-growth-by-company-2026-09.png)
+![Net star gain and growth rate in September](images/star-growth-by-company-2026-09-en.png)
 
-| Company | Stars 08-31 → 09-30 | Net gain | Growth rate |
-| --- | --- | --- | --- |
-| Unitree | 19,833 → 20,679 | +846 | 4.3% |
-| AgiBot | 7,382 → 7,563 | +181 | 2.5% |
-| LimX (incl. FluxVLA) | ≈1,186 → 1,329 | ≈+143 | ≈12.1% |
-| DeepRobotics | 892 → 965 | +73 | 8.2% |
-| Galaxea | 894 → 948 | +54 | 6.0% |
-| ANYbotics | 6,492 → 6,535 | +43 | 0.7% |
-| RobotEra | 2,560 → 2,584 | +24 | 0.9% |
-| PNDbotics | 60 → 63 | +3 | 5.0% |
-| Fourier | 808 → 808 | +0 | 0.0% |
-
-> Unitree leads with a net gain of 846, followed by AgiBot at 181 and LimX (including FluxVLA) at about 143. RobotEra gained 24 and PNDbotics 3; Fourier's star count did not change in September. The FluxVLA starting value is taken from 08-26, so the LimX figure is an upper bound (see [Limits](#method-and-disclosure)).
+> Unitree leads with a net gain of 846, followed by AgiBot at 181 and LimX (including FluxVLA) at about 143. RobotEra gained 24 and PNDbotics 3; Fourier's star count did not change in September.
 
 ### Which repositories the stars went to
 
-![Which repositories the new stars in September came from](images/star-sources-by-repo-2026-09.png)
+![Which repositories the new stars in September came from](images/star-sources-by-repo-2026-09-en.png)
 
-Only repositories that gained stars are counted; the top 3 of each company are listed and the rest are grouped.
-
-| Company (repositories with gains) | New stars | Top repositories |
-| --- | --- | --- |
-| Unitree (38) | +849 | unifolm-wla 199, unitree_mujoco 73, unitree_rl_lab 62, other 35 repositories 515 |
-| AgiBot (16) | +181 | sonic_for_a3 62, genie_sim 44, ACoT-VLA 18, other 13 repositories 57 |
-| LimX total (26) | +143 | FluxVLA 89, tron2-robot-description 6, limxdynamics 4, other 23 repositories 44 |
-| DeepRobotics (19) | +73 | rl_training 22, lightning-lm 8, deep_robotics_model 7, other 16 repositories 36 |
-| Galaxea (4) | +54 | GalaxeaVLA 44, GalaxeaManipSim 6, awesome-galaxea 3, 1 other repository 1 |
-| ANYbotics (5) | +45 | grid_map 23, elevation_mapping 19, kindr 1, 2 other repositories 2 |
-| RobotEra (4) | +24 | humanoid-gym 18, video-prediction-policy 3, humanoid-lab 2, 1 other repository 1 |
-| PNDbotics (3) | +3 | pnd_teleoperation 1, pnd_sdk_python 1, pnd_rl_mjlab 1 |
-
-> Of Unitree's 846, 199 came from unifolm-wla, created in September; the other 647 were spread over 54 existing repositories (37 grew and 3 fell slightly). About 80% of Galaxea's gain came from GalaxeaVLA, and about 60% of LimX's from FluxVLA. Fourier's net gain was 0, so it is not listed. A few Unitree and ANYbotics repositories lost 2–3 stars and are not counted, which is why their totals here are slightly above their net gains.
+> Of Unitree's 846, 199 came from unifolm-wla, created in September; the other 647 were spread over 54 existing repositories (37 grew and 3 fell slightly). About 80% of Galaxea's gain came from GalaxeaVLA, and about 60% of LimX's from FluxVLA.
 
 ### Who opened new repositories
 
