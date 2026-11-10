@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="images/cover-2026-10-en.png" alt="Embodied AI Open-Source Watch, October 2026: paper code gains stars fastest and VLA attention fades just as fast" width="100%">
+</p>
+
+<p align="center">
   <a href="README.md">中文</a> | <b>English</b>
 </p>
 

@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="images/cover-2026-09.png" alt="具身智能开源观察 2026 年 9 月：开源重心转向具身基础模型，头部更集中" width="100%">
+</p>
+
+<p align="center">
   <b>中文</b> | <a href="README_en.md">English</a>
 </p>
 

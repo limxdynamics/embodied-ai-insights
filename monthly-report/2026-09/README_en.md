@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="images/cover-2026-09-en.png" alt="Embodied AI Open-Source Watch, September 2026: open source shifts to embodied foundation models and the top pulls ahead" width="100%">
+</p>
+
+<p align="center">
   <a href="README.md">中文</a> | <b>English</b>
 </p>
 

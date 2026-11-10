@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="images/cover-2026-10.png" alt="具身智能开源观察 2026 年 10 月：论文代码起量最快，VLA 热度退得也快" width="100%">
+</p>
+
+<p align="center">
   <b>中文</b> | <a href="README_en.md">English</a>
 </p>
 

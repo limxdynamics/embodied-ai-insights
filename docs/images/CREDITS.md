@@ -14,6 +14,9 @@
 模型取自 mujoco_menagerie 提交 `b065505`。渲染时统一了材质颜色，未改动几何形状。背景柱状图为示意，不对应任何真实数据。
 Models taken from mujoco_menagerie at `b065505`. Materials were recoloured to a single tone; geometry is unchanged. The bar chart in the background is decorative and shows no real data.
 
+各期月报的首图（`monthly-report/<期数>/images/cover-*.png`）沿用 `banner.png` 的机器人画面，只替换了左侧文字，模型来源与许可同上。
+The cover of each monthly report (`monthly-report/<issue>/images/cover-*.png`) reuses the robot artwork of `banner.png` with different text on the left; the same model sources and licenses apply.
+
 图中出现某企业的机器人不代表该企业认可本报告。
 Showing a company's robot does not imply that the company endorses these reports.
 
