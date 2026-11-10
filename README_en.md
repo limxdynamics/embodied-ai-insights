@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-2f6feb" alt="License: CC BY 4.0"></a>
-  <a href="monthly-report/2026-10/README.md"><img src="https://img.shields.io/badge/latest%20issue-2026--10-2f6feb" alt="Latest issue 2026-10"></a>
+  <a href="monthly-report/2026-10/README_en.md"><img src="https://img.shields.io/badge/latest%20issue-2026--10-2f6feb" alt="Latest issue 2026-10"></a>
   <img src="https://img.shields.io/badge/data-GitHub%20REST%20API-2f6feb" alt="Data: GitHub REST API">
   <img src="https://img.shields.io/badge/tracking-10%20companies-2f6feb" alt="Tracking 10 companies">
   <a href="https://github.com/limxdynamics/limxdynamics/blob/main/doc/wechat_qr.png"><img src="https://img.shields.io/badge/WeChat-Developer%20Community-07C160?logo=wechat&logoColor=white" alt="WeChat Community"></a>
@@ -22,8 +22,7 @@ tracks the open-source projects, community activity and industry trends of
 robotics and embodied-AI companies.
 
 Maintained by the [LimX Dynamics](https://github.com/limxdynamics)
-open-source team. The reports are written in Chinese; this page summarises
-them in English.
+open-source team. Every report is published in Chinese and English.
 
 ## Sections
 
@@ -35,8 +34,8 @@ projects, plus a summary of the month's trends.
 
 | Issue | Key findings |
 | --- | --- |
-| [October 2026](monthly-report/2026-10/README.md) | Paper code gains stars fastest, but VLA attention fades just as fast; 57% of new stars go to older repositories; users fork simulation, training and SDK repositories the most (new layout from this issue) |
-| [September 2026](monthly-report/2026-09/README.md) | Foundation models drive open-source growth; humanoid control moves to "motion data + general frameworks"; new repositories need a launch campaign to get attention |
+| [October 2026](monthly-report/2026-10/README_en.md) | Paper code gains stars fastest, but VLA attention fades just as fast; 57% of new stars go to older repositories; users fork simulation, training and SDK repositories the most (new layout from this issue) |
+| [September 2026](monthly-report/2026-09/README_en.md) | Foundation models drive open-source growth; humanoid control moves to "motion data + general frameworks"; new repositories need a launch campaign to get attention |
 
 ### Articles
 
@@ -68,7 +67,7 @@ worth tracking in an issue.
 - **Period**: calendar months in Beijing time.
 - **Open data**: the aggregated tables (CSV) are not published yet.
 - **Limits**: stars and forks measure attention, not usage; issue and PR counts do not separate company staff from outside contributors. Each report states its exact method.
-- **Disclosure**: the reports are written by LimX, one of the tracked companies. Cross-company rankings use only public data that is available for every company; see the "数据口径与披露" section of each report.
+- **Disclosure**: the reports are written by LimX, one of the tracked companies. Cross-company rankings use only public data that is available for every company; see the "Method and disclosure" section of each report.
 
 ## Citation and license
 

@@ -1,3 +1,7 @@
+<p align="center">
+  <b>中文</b> | <a href="README_en.md">English</a>
+</p>
+
 # 具身智能开源观察 · 2026 年 10 月
 
 <sub>本报告由 LimX 团队撰写，数据来自 GitHub 公开 API 每日采集存档，口径与利益披露见[文末](#数据口径与披露)。本期起改版：结论在前，每条趋势附证据图表。</sub>
