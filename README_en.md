@@ -10,7 +10,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-2f6feb" alt="License: CC BY 4.0"></a>
   <a href="monthly-report/2026-10/README_en.md"><img src="https://img.shields.io/badge/latest%20issue-2026--10-2f6feb" alt="Latest issue 2026-10"></a>
   <img src="https://img.shields.io/badge/data-GitHub%20REST%20API-2f6feb" alt="Data: GitHub REST API">
-  <img src="https://img.shields.io/badge/tracking-10%20companies-2f6feb" alt="Tracking 10 companies">
+  <img src="https://img.shields.io/badge/tracking-13%20companies-2f6feb" alt="Tracking 13 companies">
   <a href="https://github.com/limxdynamics/limxdynamics/blob/main/doc/wechat_qr.png"><img src="https://img.shields.io/badge/WeChat-Developer%20Community-07C160?logo=wechat&logoColor=white" alt="WeChat Community"></a>
 </p>
 <p align="center"><sub>For partnership and procurement inquiries, contact <a href="mailto:opensource@limxdynamics.com">opensource@limxdynamics.com</a></sub></p>
@@ -43,23 +43,29 @@ Coming soon.
 
 ## Coverage
 
-The GitHub organisations of 10 companies are tracked:
+The GitHub organisations of 13 companies are tracked (9 in China, 4 elsewhere).
 
-| Company | GitHub |
-| --- | --- |
-| Unitree | [unitreerobotics](https://github.com/unitreerobotics) |
-| AgiBot | [AgibotTech](https://github.com/AgibotTech) |
-| LimX Dynamics | [limxdynamics](https://github.com/limxdynamics), [FluxVLA](https://github.com/FluxVLA) |
-| DeepRobotics | [DeepRoboticsLab](https://github.com/DeepRoboticsLab) |
-| Galaxea | [OpenGalaxea](https://github.com/OpenGalaxea) |
-| ANYbotics | [ANYbotics](https://github.com/ANYbotics) |
-| RobotEra | [roboterax](https://github.com/roboterax) |
-| Fourier | [FFTAI](https://github.com/FFTAI) |
-| PNDbotics | [pndbotics](https://github.com/pndbotics) |
-| Leju | [LejuRobotics](https://github.com/LejuRobotics) (collected since 2026-10-30; compared from the November report) |
+| Company | GitHub | Collected since |
+| --- | --- | --- |
+| Unitree | [unitreerobotics](https://github.com/unitreerobotics) | 2026-08-28 |
+| AgiBot | [AgibotTech](https://github.com/AgibotTech) | 2026-08-28 |
+| LimX Dynamics | [limxdynamics](https://github.com/limxdynamics), [FluxVLA](https://github.com/FluxVLA) | 2026-07-27 |
+| DeepRobotics | [DeepRoboticsLab](https://github.com/DeepRoboticsLab) | 2026-08-28 |
+| Galaxea | [OpenGalaxea](https://github.com/OpenGalaxea) | 2026-08-28 |
+| RobotEra | [roboterax](https://github.com/roboterax) | 2026-08-28 |
+| Fourier | [FFTAI](https://github.com/FFTAI) | 2026-08-28 |
+| PNDbotics | [pndbotics](https://github.com/pndbotics) | 2026-08-28 |
+| Leju | [LejuRobotics](https://github.com/LejuRobotics) | 2026-10-30 |
+| ANYbotics | [ANYbotics](https://github.com/ANYbotics) | 2026-08-28 |
+| Boston Dynamics | [boston-dynamics](https://github.com/boston-dynamics) | 2026-11-11 |
+| PAL Robotics | [pal-robotics](https://github.com/pal-robotics) | 2026-11-11 |
+| HELLO ROBOT | [hello-robot](https://github.com/hello-robot) | 2026-11-11 |
 
-Coverage will change as the industry does; suggest organisations or projects
-worth tracking in an issue.
+The three added on 2026-11-11 are collected from that date and enter cross-company comparisons from the November 2026 report.
+
+Foreign humanoid companies publish almost nothing: Figure, Apptronik, NEURA and Sanctuary have no GitHub organisation or an empty one, and 1X and Agility have a single repository each, both dormant since 2024. The foreign side of the panel is therefore made of companies with a tradition of open SDKs - ANYbotics, Boston Dynamics, PAL Robotics, HELLO ROBOT.
+
+Coverage will change as the industry does; suggest organisations or projects worth tracking in an issue.
 
 ## Data
 
