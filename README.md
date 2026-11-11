@@ -10,7 +10,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-2f6feb" alt="License: CC BY 4.0"></a>
   <a href="monthly-report/2026-10/README.md"><img src="https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E4%B8%80%E6%9C%9F-2026--10-2f6feb" alt="最新一期 2026-10"></a>
   <img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE-GitHub%20REST%20API-2f6feb" alt="数据：GitHub REST API">
-  <img src="https://img.shields.io/badge/%E8%BF%BD%E8%B8%AA-10%20%E5%AE%B6%E4%BC%81%E4%B8%9A-2f6feb" alt="追踪 10 家企业">
+  <img src="https://img.shields.io/badge/%E8%BF%BD%E8%B8%AA-13%20%E5%AE%B6%E4%BC%81%E4%B8%9A-2f6feb" alt="追踪 13 家企业">
   <a href="https://github.com/limxdynamics/limxdynamics/blob/main/doc/wechat_qr.png"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA-07C160?logo=wechat&logoColor=white" alt="微信开发者社区"></a>
 </p>
 <p align="center"><sub>合作采购请联系 <a href="mailto:opensource@limxdynamics.com">opensource@limxdynamics.com</a></sub></p>
@@ -38,20 +38,27 @@
 
 ## 覆盖范围
 
-目前追踪 10 家企业的 GitHub 组织：
+目前追踪 13 家企业的 GitHub 组织：国内 9 家，国外 4 家。
 
-| 企业 | GitHub |
-| --- | --- |
-| 宇树科技 Unitree | [unitreerobotics](https://github.com/unitreerobotics) |
-| 智元机器人 AgiBot | [AgibotTech](https://github.com/AgibotTech) |
-| 逐际动力 LimX Dynamics | [limxdynamics](https://github.com/limxdynamics)、[FluxVLA](https://github.com/FluxVLA) |
-| 云深处 DeepRobotics | [DeepRoboticsLab](https://github.com/DeepRoboticsLab) |
-| 星海图 Galaxea | [OpenGalaxea](https://github.com/OpenGalaxea) |
-| ANYbotics | [ANYbotics](https://github.com/ANYbotics) |
-| 星动纪元 RobotEra | [roboterax](https://github.com/roboterax) |
-| 傅利叶 Fourier | [FFTAI](https://github.com/FFTAI) |
-| 松延动力 PNDbotics | [pndbotics](https://github.com/pndbotics) |
-| 乐聚 Leju | [LejuRobotics](https://github.com/LejuRobotics)（2026-10-30 起采集，11 月月报起纳入比较） |
+| 企业 | GitHub | 采集起始 |
+| --- | --- | --- |
+| 宇树科技 Unitree | [unitreerobotics](https://github.com/unitreerobotics) | 2026-08-28 |
+| 智元机器人 AgiBot | [AgibotTech](https://github.com/AgibotTech) | 2026-08-28 |
+| 逐际动力 LimX Dynamics | [limxdynamics](https://github.com/limxdynamics)、[FluxVLA](https://github.com/FluxVLA) | 2026-07-27 |
+| 云深处 DeepRobotics | [DeepRoboticsLab](https://github.com/DeepRoboticsLab) | 2026-08-28 |
+| 星海图 Galaxea | [OpenGalaxea](https://github.com/OpenGalaxea) | 2026-08-28 |
+| 星动纪元 RobotEra | [roboterax](https://github.com/roboterax) | 2026-08-28 |
+| 傅利叶 Fourier | [FFTAI](https://github.com/FFTAI) | 2026-08-28 |
+| 松延动力 PNDbotics | [pndbotics](https://github.com/pndbotics) | 2026-08-28 |
+| 乐聚 Leju | [LejuRobotics](https://github.com/LejuRobotics) | 2026-10-30 |
+| ANYbotics | [ANYbotics](https://github.com/ANYbotics) | 2026-08-28 |
+| Boston Dynamics | [boston-dynamics](https://github.com/boston-dynamics) | 2026-11-11 |
+| PAL Robotics | [pal-robotics](https://github.com/pal-robotics) | 2026-11-11 |
+| HELLO ROBOT | [hello-robot](https://github.com/hello-robot) | 2026-11-11 |
+
+2026-11-11 新增的三家自该日起采集，2026 年 11 月月报起纳入跨企业比较。
+
+国外的人形机器人公司基本没有公开仓库：Figure、Apptronik、NEURA、Sanctuary 在 GitHub 上没有组织或组织为空，1X 与 Agility 各只有 1 个仓库、2024 年后不再更新。所以国外这边纳入的是有开源 SDK 传统的整机厂——ANYbotics、Boston Dynamics、PAL Robotics、HELLO ROBOT。
 
 覆盖范围会随行业发展调整，欢迎通过 issue 推荐值得追踪的组织或项目。
 
